@@ -1,0 +1,13 @@
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\bin\Debug\netcoreapp3.1\MySocketClient.exe
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\bin\Debug\netcoreapp3.1\MySocketClient.deps.json
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\bin\Debug\netcoreapp3.1\MySocketClient.runtimeconfig.json
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\bin\Debug\netcoreapp3.1\MySocketClient.runtimeconfig.dev.json
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\bin\Debug\netcoreapp3.1\MySocketClient.dll
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\bin\Debug\netcoreapp3.1\MySocketClient.pdb
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\obj\Debug\netcoreapp3.1\MySocketClient.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\obj\Debug\netcoreapp3.1\MySocketClient.AssemblyInfo.cs
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\obj\Debug\netcoreapp3.1\MySocketClient.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\obj\Debug\netcoreapp3.1\MySocketClient.dll
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\obj\Debug\netcoreapp3.1\MySocketClient.pdb
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\obj\Debug\netcoreapp3.1\MySocketClient.genruntimeconfig.cache
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\SocketDemo\obj\Debug\netcoreapp3.1\MySocketClient.csprojAssemblyReference.cache

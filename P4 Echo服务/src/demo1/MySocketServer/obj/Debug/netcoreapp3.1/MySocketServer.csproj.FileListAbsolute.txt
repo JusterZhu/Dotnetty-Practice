@@ -1,0 +1,13 @@
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\bin\Debug\netcoreapp3.1\MySocketServer.exe
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\bin\Debug\netcoreapp3.1\MySocketServer.deps.json
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\bin\Debug\netcoreapp3.1\MySocketServer.runtimeconfig.json
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\bin\Debug\netcoreapp3.1\MySocketServer.runtimeconfig.dev.json
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\bin\Debug\netcoreapp3.1\MySocketServer.dll
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\bin\Debug\netcoreapp3.1\MySocketServer.pdb
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\obj\Debug\netcoreapp3.1\MySocketServer.csprojAssemblyReference.cache
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\obj\Debug\netcoreapp3.1\MySocketServer.AssemblyInfoInputs.cache
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\obj\Debug\netcoreapp3.1\MySocketServer.AssemblyInfo.cs
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\obj\Debug\netcoreapp3.1\MySocketServer.csproj.CoreCompileInputs.cache
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\obj\Debug\netcoreapp3.1\MySocketServer.dll
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\obj\Debug\netcoreapp3.1\MySocketServer.pdb
+E:\博客相关资料\文章\dotnetty实战系列\P2 socket基础原理\src\MySocketServer\obj\Debug\netcoreapp3.1\MySocketServer.genruntimeconfig.cache

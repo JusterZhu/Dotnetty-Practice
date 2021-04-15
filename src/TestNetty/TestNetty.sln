@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Socket", "Socket", "{42FBB4AD-DC7D-471E-BC0C-4E68B79C309D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNetty.Client", "..\TestNetty.Client\TestNetty.Client.csproj", "{38637FC9-F668-4C79-8E89-781C14769159}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNetty.Service", "..\TestNetty.Service\TestNetty.Service.csproj", "{E189DC62-983F-4684-8496-FA9739FA9CF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{DAC89709-4EAE-43F1-9A1A-AF760491BEB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNetty.Infrastructure.Common", "TestNetty.Infrastructure.Common\TestNetty.Infrastructure.Common.csproj", "{72385A68-1C19-4B94-970E-83328305DDC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetty.Data", "TestNetty.Data\TestNetty.Data.csproj", "{94E976D5-7786-4321-8A59-C37171CC9070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38637FC9-F668-4C79-8E89-781C14769159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38637FC9-F668-4C79-8E89-781C14769159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38637FC9-F668-4C79-8E89-781C14769159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38637FC9-F668-4C79-8E89-781C14769159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E189DC62-983F-4684-8496-FA9739FA9CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E189DC62-983F-4684-8496-FA9739FA9CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E189DC62-983F-4684-8496-FA9739FA9CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E189DC62-983F-4684-8496-FA9739FA9CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72385A68-1C19-4B94-970E-83328305DDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72385A68-1C19-4B94-970E-83328305DDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72385A68-1C19-4B94-970E-83328305DDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72385A68-1C19-4B94-970E-83328305DDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E976D5-7786-4321-8A59-C37171CC9070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E976D5-7786-4321-8A59-C37171CC9070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E976D5-7786-4321-8A59-C37171CC9070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E976D5-7786-4321-8A59-C37171CC9070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38637FC9-F668-4C79-8E89-781C14769159} = {42FBB4AD-DC7D-471E-BC0C-4E68B79C309D}
+		{E189DC62-983F-4684-8496-FA9739FA9CF3} = {42FBB4AD-DC7D-471E-BC0C-4E68B79C309D}
+		{72385A68-1C19-4B94-970E-83328305DDC2} = {DAC89709-4EAE-43F1-9A1A-AF760491BEB1}
+		{94E976D5-7786-4321-8A59-C37171CC9070} = {DAC89709-4EAE-43F1-9A1A-AF760491BEB1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7DF2611-3702-49EC-8928-32516EAB6365}
+	EndGlobalSection
+EndGlobal

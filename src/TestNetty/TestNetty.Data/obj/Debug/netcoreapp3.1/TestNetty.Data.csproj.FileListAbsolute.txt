@@ -1,0 +1,15 @@
+E:\示例代码\TestNetty\TestNetty.Data\bin\Debug\netcoreapp3.1\TestNetty.Data.deps.json
+E:\示例代码\TestNetty\TestNetty.Data\bin\Debug\netcoreapp3.1\TestNetty.Data.dll
+E:\示例代码\TestNetty\TestNetty.Data\bin\Debug\netcoreapp3.1\TestNetty.Data.pdb
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.AssemblyInfoInputs.cache
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.AssemblyInfo.cs
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.csproj.CoreCompileInputs.cache
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.dll
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.pdb
+E:\示例代码\TestNetty\TestNetty.Data\bin\Debug\netcoreapp3.1\TestNetty.Data.runtimeconfig.json
+E:\示例代码\TestNetty\TestNetty.Data\bin\Debug\netcoreapp3.1\TestNetty.Data.runtimeconfig.dev.json
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.genruntimeconfig.cache
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.csprojAssemblyReference.cache
+E:\示例代码\TestNetty\TestNetty.Data\bin\Debug\netcoreapp3.1\TestNetty.Infrastructure.Common.dll
+E:\示例代码\TestNetty\TestNetty.Data\bin\Debug\netcoreapp3.1\TestNetty.Infrastructure.Common.pdb
+E:\示例代码\TestNetty\TestNetty.Data\obj\Debug\netcoreapp3.1\TestNetty.Data.csproj.CopyComplete

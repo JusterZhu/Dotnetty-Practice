@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetty.Buffers" Version="0.6.0" />
+    <PackageReference Include="DotNetty.Common" Version="0.6.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="2.1.0" />
+    <PackageReference Include="protobuf-net" Version="2.1.0" />
+  </ItemGroup>
+
+</Project>

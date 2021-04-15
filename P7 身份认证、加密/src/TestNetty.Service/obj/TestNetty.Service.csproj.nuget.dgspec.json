@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty.Service\\TestNetty.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty.Service\\TestNetty.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty.Service\\TestNetty.Service.csproj",
+        "projectName": "TestNetty.Service",
+        "projectPath": "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty.Service\\TestNetty.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty\\TestNetty.Infrastructure.Common\\TestNetty.Infrastructure.Common.csproj": {
+                "projectPath": "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty\\TestNetty.Infrastructure.Common\\TestNetty.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DotNetty.Buffers": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "DotNetty.Codecs": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "DotNetty.Common": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "DotNetty.Handlers": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "DotNetty.Transport": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty\\TestNetty.Infrastructure.Common\\TestNetty.Infrastructure.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty\\TestNetty.Infrastructure.Common\\TestNetty.Infrastructure.Common.csproj",
+        "projectName": "TestNetty.Infrastructure.Common",
+        "projectPath": "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty\\TestNetty.Infrastructure.Common\\TestNetty.Infrastructure.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\博客相关资料\\文章\\dotnetty实战系列\\P7 身份认证、加密\\src\\TestNetty\\TestNetty.Infrastructure.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DotNetty.Buffers": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "DotNetty.Common": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
